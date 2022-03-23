@@ -217,6 +217,9 @@
   id: Ore
 
 - type: Tag
+  id: PaintableAirlock
+
+- type: Tag
   id: PercussionInstrument
 
 - type: Tag
